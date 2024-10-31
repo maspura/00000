@@ -1,4 +1,4 @@
-Di rilis ini, versi 2410.1.0 berisi penambahan instalasi aplikasi dengan wizard dan perbaikan lain yang diminta Komunitas SID.
+Di rilis ini, versi 2411.0.0 berisi penambahan instalasi aplikasi dengan wizard dan perbaikan lain yang diminta Komunitas SID.
 
 Terima kasih pada @totoprayogo1916 yang terus berkontribusi.
 
@@ -96,3 +96,6 @@ Terima kasih pada @totoprayogo1916 yang terus berkontribusi.
 16. [#2747](https://github.com/OpenSID/premium/issues/2747) Perbaikan uggah dokumen pada laporan apbdes.
 17. [#2633](https://github.com/OpenSID/premium/issues/2633) Pembatasan pengiriman pesan pada layanan mandiri web dengan durasi 60 detik.
 18. [#2560](https://github.com/OpenSID/premium/issues/2560) Pembaruan librari captcha.
+
+#### INFO PENTING
+- Pada rilis ini, penggunaan surat jenis RTF tidak didukung dan tidak dikembangkan lagi. Silahkan beralih dan gunakan surat jenis TinyMCE yang sudah dikembangkan.
